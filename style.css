@@ -89,11 +89,6 @@ textarea:not([rows]) {
 }
 
 @font-face {
-    font-family: barlow-thick;
-    src: url(images/Barlow_Semi_Condensed/BarlowSemiCondensed-Black.ttf);
-}
-
-@font-face {
     font-family: barlow-light;
     src: url(images/Barlow_Semi_Condensed/BarlowSemiCondensed-Light.ttf);
 }
